@@ -83,10 +83,16 @@
   <img src="https://img.shields.io/badge/Seaborn-46B4A4?style=for-the-badge&logo=python&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=xgboost&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge&logo=lightgbm&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Pickle-003B57?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 </p>
 
-#### 🗃️ Databases & DevOps  
+#### 🗃️ Databases 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
