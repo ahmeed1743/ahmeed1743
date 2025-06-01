@@ -16,18 +16,6 @@
 
 ---
 
-### 🏆 GitHub Trophies & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmeed1743&theme=gruvbox&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
 ### 🧠 About Me
 
 - 💼 Portfolio: [ahmeed1743-portfolio.netlify.app](https://ahmeed1743-portfolio.netlify.app/)
@@ -36,31 +24,21 @@
 
 ---
 
-### 📫 Connect with Me
+### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://codepen.io/sayed74" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-elsayed-34737823b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/ahmedsayed1743" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/ahmed.elsayed.701681/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/ahmed_el.sayed74/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
-  </a>
+  <a href="https://codepen.io/sayed74"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="40"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-elsayed-34737823b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="40"/></a>
+  <a href="https://www.kaggle.com/ahmedsayed1743"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40"/></a>
+  <a href="https://www.facebook.com/ahmed.elsayed.701681/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/></a>
+  <a href="https://www.instagram.com/ahmed_el.sayed74/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>
 </p>
 
 ---
 
 ### 🧰 Tech Toolbox
 
-#### 🚀 Languages & Frameworks  
+#### 🚀 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
@@ -75,7 +53,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40"/>
 </p>
 
-#### 📊 Data Science & ML  
+#### 📊 Data Science & ML
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
@@ -86,7 +64,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40"/>
 </p>
 
-#### 🗃️ Databases & DevOps  
+#### 🗃️ Databases & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
@@ -96,7 +74,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
 </p>
 
-#### 📈 Visualizations & Other Tools  
+#### 📈 Visualization & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40"/>
@@ -105,14 +83,52 @@
 
 ---
 
+### 🌱 Now Learning
+
+- 📘 Deepening knowledge in NLP with Hugging Face 🤗 Transformers  
+- 📊 Advanced ML Deployment with Docker & FastAPI  
+- 📈 Real-time Dashboards using Plotly & Streamlit  
+
+---
+
+### 📌 Pinned Projects
+
+<p align="left">
+  <a href="https://github.com/ahmeed1743/football-scouting-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmeed1743&repo=football-scouting-app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ahmeed1743/flask-dashboard-xgxa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmeed1743&repo=flask-dashboard-xgxa&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🏆 GitHub Trophies & Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmeed1743&theme=gruvbox&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeed1743&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeed1743&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeed1743&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeed1743&layout=compact&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeed1743&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeed1743&theme=tokyonight" />
 </p>
-
-
