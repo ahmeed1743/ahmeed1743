@@ -30,21 +30,9 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **[Football Player Recommendation System](https://fp-recommendation-system.netlify.app/)** — An AI-powered platform to identify promising football talents using advanced data analytics and predictive modeling.
 - 💼 Portfolio: [ahmeed1743-portfolio.netlify.app](https://ahmeed1743-portfolio.netlify.app/)
 - 📫 Reach me at: **hghhgh623@gmail.com**
 - 📄 [Download CV](https://drive.google.com/file/d/1t9nRn1dPxBkzxRTBknvgWSn960CyhV7D/view?usp=sharing)
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| ⚽ **Football Player Recommendation** | AI-based tool predicting xG/xA metrics for scouting football players. | [Website](https://fp-recommendation-system.netlify.app/) • [Repo](https://github.com/ahmeed1743/football-player-recommendation) |
-| 📊 **Data Visual Dashboard** | Interactive React + Plotly dashboard for dynamic CSV data exploration. | Coming Soon |
-| 🧠 **AI Resume Generator** | Intelligent resume generator powered by Gemini API to create tailored CVs in minutes. | Coming Soon |
-| 🌐 **Portfolio Website** | Clean and responsive website built with Tailwind CSS & JavaScript. | [Visit](https://ahmeed1743-portfolio.netlify.app/) |
 
 ---
 
@@ -78,13 +66,6 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" height="40" style="margin-right:10px;"/>
 </p>
 
-
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xhoaq7rf6ux7a6de62w5ndbc3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="350" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -95,14 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeed1743&layout=compact&theme=tokyonight" alt="Top languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeed1743&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-### 🌍 Visitors Map
-
-<p align="center">
-  <img src="https://www.revolvermaps.com/counter/welcome__ahmeed1743?color=1&style=34" alt="Visitor Map" />
 </p>
 
 ---
