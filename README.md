@@ -16,9 +16,21 @@
 
 ---
 
+### 🏆 GitHub Trophies & Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmeed1743&theme=gruvbox&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
 ### 🧠 About Me
 
-- 🔭 Currently building: **[Football Player Recommendation System](https://fp-recommendation-system.netlify.app/)**
+- 🔭 Currently building: **[Football Player Recommendation System](https://fp-recommendation-system.netlify.app/)** — An AI-powered platform to identify promising football talents using advanced data analytics and predictive modeling.
 - 💼 Portfolio: [ahmeed1743-portfolio.netlify.app](https://ahmeed1743-portfolio.netlify.app/)
 - 📫 Reach me at: **hghhgh623@gmail.com**
 - 📄 [Download CV](https://drive.google.com/file/d/1t9nRn1dPxBkzxRTBknvgWSn960CyhV7D/view?usp=sharing)
@@ -28,11 +40,37 @@
 ### 🌟 Featured Projects
 
 | Project | Description | Link |
-|---------|-------------|------|
-| ⚽ **Football Player Recommendation** | AI-based tool predicting xG/xA for player scouting. | [Website](https://fp-recommendation-system.netlify.app/) • [Repo](https://github.com/ahmeed1743/football-player-recommendation) |
-| 📊 **Data Visual Dashboard** | React + Plotly dashboard for CSV exploration. | Coming Soon |
-| 🧠 **AI Resume Generator** | Gemini API-powered CV generator. | Coming Soon |
-| 🌐 **Portfolio Website** | Clean, responsive Tailwind + JS site. | [Link](https://ahmeed1743-portfolio.netlify.app/) |
+|--------|-------------|------|
+| ⚽ **Football Player Recommendation** | AI-based tool predicting xG/xA metrics for scouting football players. | [Website](https://fp-recommendation-system.netlify.app/) • [Repo](https://github.com/ahmeed1743/football-player-recommendation) |
+| 📊 **Data Visual Dashboard** | Interactive React + Plotly dashboard for dynamic CSV data exploration. | Coming Soon |
+| 🧠 **AI Resume Generator** | Intelligent resume generator powered by Gemini API to create tailored CVs in minutes. | Coming Soon |
+| 🌐 **Portfolio Website** | Clean and responsive website built with Tailwind CSS & JavaScript. | [Visit](https://ahmeed1743-portfolio.netlify.app/) |
+
+---
+
+### 🔧 Skills & Tools
+
+#### Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+
+#### Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+
+#### Databases & Tools  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)  
 
 ---
 
@@ -82,42 +120,4 @@
   <a href="https://instagram.com/ahmed_el.sayed74" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
-
----
-
-### 🧰 Tech Toolbox
-
-#### Languages & Frameworks  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
-
-#### Data & ML  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)  
-
-#### Databases & Tools  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs)  
-
----
-
-### 🏆 GitHub Trophies & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmeed1743&theme=gruvbox&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
